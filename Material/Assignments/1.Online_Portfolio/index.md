@@ -92,7 +92,7 @@ Accept the GitHub Classroom assignment on Canvas to create a repository for you 
 
         * Don't do
         ```
-            <img src="C:/Users/yahya/Desktop/OnlinePortfolio/resources/images/myphoto.jpg"/>
+            <img src="C:/Users/ben/Desktop/OnlinePortfolio/resources/images/myphoto.jpg"/>
         ```
 
 6. <img alt="commit logo" style="height: 20px;margin-bottom: -4px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Octicons-git-commit.svg/1200px-Octicons-git-commit.svg.png"/> `git commit -m "initialized the page"`. 

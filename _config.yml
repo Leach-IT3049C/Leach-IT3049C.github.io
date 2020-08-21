@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IT3049C - Yahya Gilany
+title: IT3049C - Ben Leach 
 description: Class material and activities
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://it2045c.github.io/Labs"
@@ -36,7 +36,7 @@ aux_links:
     - "//ygilany-solution-access.herokuapp.com/"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Material Copyright &copy;2020 Yahya Gilany<br/>Theme Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Material Copyright &copy;2020 Ben Leach<br/>Theme Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil

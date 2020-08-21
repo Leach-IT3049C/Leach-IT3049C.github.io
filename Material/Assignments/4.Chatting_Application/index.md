@@ -128,7 +128,7 @@ For most of the parts, I have provided snippets of code for you to use.
     ```
     * *Tip*: You may want to hard-code your name into the input value, so you don’t have to type it in every time you refresh the page 😉 
         ```html
-        <input id="myName" ... value="Yahya Gilany">
+        <input id="myName" ... value="Ben Leach">
         ```
 > Now the page  div should look like this
 <img alt="a page with a jumbotron and input field" src="assets/1.png" style="width:100%; border:1px #ddd solid;"/>

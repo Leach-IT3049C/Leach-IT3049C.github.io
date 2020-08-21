@@ -10,7 +10,7 @@ permalink: /syllabus
 *** ***
 
 * **Course:** [IT3049C - Web Game Development](#)
-* **Instructor:** Yahya Gilany, [yahya.gilany@uc.edu](mailto:yahya.gilany@uc.edu)
+* **Instructor:** Ben Leach, [ben.leach@uc.edu](mailto:ben.leach@uc.edu)
 * **Need help?**
     * Office Hours with TA By appointment - more info soon.
     * Office Hours with Instructor By appointment - please [sign up here](https://outlook.office365.com/owa/calendar/OfficeHours@mailuc.onmicrosoft.com/bookings/) 

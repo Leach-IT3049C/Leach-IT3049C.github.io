@@ -69,7 +69,7 @@ This is a collection of JavaScript exercises and coding challenges. The focus in
 ### Setup
 1. Navigate to your repository in the command line.
   - You can either use the `cd PATH_TO_FOLDER` command.
-    - in my case the command was `cd /Users/yahyagilany/git/School/IT3049/2.JS-Exercise`
+    - in my case the command was `cd /Users/bleach/git/School/IT3049/2.JS-Exercise`
     - use the `pwd` command to `P`rint `W`orking `D`irectory and confirm your location
   - **OR** You could open VSCode integrated terminal window and it will open in the termianl already in the right path.
 2. Installing the dependencies `npm install`
